@@ -12,4 +12,5 @@ Module_02 - Lab 2 : Submission - 16/10/2023<br>
 Module_02 - Lab 3 : Submission - 22/10/2023<br>
 Module_02 - Lab 4 : Submission - 29/10/2023<br>
 Module_03 - Lab 1 : Submission - 6/11/2023<br>
-Module_03 - Lab 2 : Submission - 12/11/2023
+Module_03 - Lab 2 : Submission - 12/11/2023<br>
+Module_03 - Lab 3 : Submission - 21/11/2023<br>
