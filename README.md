@@ -26,3 +26,4 @@ Module_05 - Lab 3 : Submission - 14/01/2024<br>
 Module_05 - Project : Submission - 20/1/2024<br>
 Module_05 - Lab 4 : Submission - 22/01/2024<br>
 Module_06 - Lab 1 : Submission - 28/01/2024<br>
+Module_06 - Lab 2 : Submission - 5/02/2024<br>
