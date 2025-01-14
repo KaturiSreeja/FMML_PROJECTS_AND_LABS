@@ -1,5 +1,5 @@
 # FMML_PROJECTS_AND_LABS
-My Project and Lab submissions of FMML. <br>
+My Project and Lab submissions of FMML (Foundations of Modern Machine Learning). <br>
 Basics of Python Lab : Submission - 1/09/2023 <br>
 Module_01 - Lab 1 : Submission - 9/09/2023  <br>
 Module_01 - Lab 2 : Submission - 16/09/2023  <br>
